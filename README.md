@@ -1,6 +1,7 @@
 # ResiliSeed Bio Seed Stage Climate Resilience
 
 A literature-benchmarked computational proof of concept for **seed-stage climate resilience** under **combined heat and drought stress**, integrating **seed physiology**, **intervention ranking**, and **machine learning prediction**.
+<img width="1438" height="1062" alt="ResiliSeed Bio" src="https://github.com/user-attachments/assets/40c5b1c6-c97b-418d-8943-6c47408b8fab" />
 
 ## Overview
 
