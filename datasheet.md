@@ -72,15 +72,7 @@ The data were generated to preserve:
 - Coherent trait correlations
 - Observation-level variability
 
-## What the dataset is not
-
-This dataset is not:
-
-- A measured wet-lab dataset
-- A field dataset
-- A greenhouse dataset
-- A regulatory-grade dataset
-- A commercial decision dataset
+## What the dataset is 
 
 It should be treated as a **hypothesis-generating simulation dataset** only.
 
